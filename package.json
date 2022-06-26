@@ -10,8 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@hapi/basic": "^6.0.0",
+    "@hapi/boom": "^10.0.0",
     "@hapi/hapi": "^20.2.2",
     "@hapi/inert": "^6.0.5",
+    "@hapi/vision": "^6.1.0",
+    "handlebars": "^4.7.7",
     "hapi-geo-locate": "^4.1.1"
   }
 }
